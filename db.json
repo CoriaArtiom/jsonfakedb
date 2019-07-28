@@ -4,25 +4,36 @@
 	    	"id": "1",
 	    	"name": "John",
 	    	"family_name": "Lolkin",
-	    	"post": "Mail deliveler"
+	    	"post": "Mail deliveler",
+	    	"comments":[
+	    		{
+	    			"title": "Nice profile",
+	    			"text": "Wow, love ur profile profile",
+	    			"phone": "123123123",
+	    			"date": "1564353993537"
+	    		}
+	    	]
 	    },
 	    {
 	    	"id": "2",
 	    	"name": "Hey",
 	    	"family_name": "Wilson",
-	    	"post": "Developer"
+	    	"post": "Developer",
+	    	"comments":[]
 	    },
 	    {
 	    	"id": "3",
 	    	"name": "Anton",
 	    	"family_name": "Petrov",
-	    	"post": "Designer"
+	    	"post": "Designer",
+	    	"comments":[]
 	    },
 	    {
 	    	"id": "4",
 	    	"name": "Ivan",
 	    	"family_name": "Ivanov",
-	    	"post": "Director"
+	    	"post": "Director",
+	    	"comments":[]
 	    }
 	]
 }
