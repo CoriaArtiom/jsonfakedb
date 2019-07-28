@@ -5,6 +5,7 @@
 	    	"name": "John",
 	    	"family_name": "Lolkin",
 	    	"post": "Mail deliveler",
+	    	"avatar": "https://avatarfiles.alphacoders.com/192/192137.jpg",
 	    	"comments":[
 	    		{
 	    			"title": "Nice profile",
@@ -19,6 +20,7 @@
 	    	"name": "Hey",
 	    	"family_name": "Wilson",
 	    	"post": "Developer",
+	    	"avatar": "https://avatarfiles.alphacoders.com/192/192137.jpg",
 	    	"comments":[]
 	    },
 	    {
@@ -26,6 +28,7 @@
 	    	"name": "Anton",
 	    	"family_name": "Petrov",
 	    	"post": "Designer",
+	    	"avatar": "https://avatarfiles.alphacoders.com/192/192137.jpg",
 	    	"comments":[]
 	    },
 	    {
@@ -33,6 +36,7 @@
 	    	"name": "Ivan",
 	    	"family_name": "Ivanov",
 	    	"post": "Director",
+	    	"avatar": "https://avatarfiles.alphacoders.com/192/192137.jpg",
 	    	"comments":[]
 	    }
 	]
