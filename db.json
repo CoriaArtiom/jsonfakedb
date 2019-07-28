@@ -1,25 +1,25 @@
 {
   	"users": [
 	    {
-	    	"id": 1,
+	    	"id": "1",
 	    	"name": "John",
 	    	"family_name": "Lolkin",
 	    	"post": "Mail deliveler"
 	    },
 	    {
-	    	"id": 2,
+	    	"id": "2",
 	    	"name": "Hey",
 	    	"family_name": "Wilson",
 	    	"post": "Developer"
 	    },
 	    {
-	    	"id": 3,
+	    	"id": "3",
 	    	"name": "Anton",
 	    	"family_name": "Petrov",
 	    	"post": "Designer"
 	    },
 	    {
-	    	"id": 4,
+	    	"id": "4",
 	    	"name": "Ivan",
 	    	"family_name": "Ivanov",
 	    	"post": "Director"
