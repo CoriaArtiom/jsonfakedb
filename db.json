@@ -1,0 +1,16 @@
+{
+  	"users": [
+	    {
+	    	"id": 1,
+	    	"name": "John",
+	    	"family_name": "Lolkin",
+	    	"post": "mail_deliveler"
+	    },
+	    {
+	    	"id": 2,
+	    	"name": "Hey",
+	    	"family_name": "Wilson",
+	    	"post": "developer"
+	    }
+	]
+}
