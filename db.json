@@ -5,6 +5,7 @@
 	    	"name": "John",
 	    	"family_name": "Lolkin",
 	    	"post": "Mail deliveler",
+	    	"adress": "Pushlina Street",
 	    	"avatar": "https://avatarfiles.alphacoders.com/192/192137.jpg",
 	    	"comments":[
 	    		{
@@ -20,6 +21,7 @@
 	    	"name": "Hey",
 	    	"family_name": "Wilson",
 	    	"post": "Developer",
+	    	"adress": "Kolotushkina House",
 	    	"avatar": "https://avatarfiles.alphacoders.com/194/194634.jpg",
 	    	"comments":[]
 	    },
@@ -28,6 +30,7 @@
 	    	"name": "Anton",
 	    	"family_name": "Petrov",
 	    	"post": "Designer",
+	    	"adress": "City 17",
 	    	"avatar": "https://avatarfiles.alphacoders.com/193/193776.jpg",
 	    	"comments":[]
 	    },
@@ -36,6 +39,7 @@
 	    	"name": "Ivan",
 	    	"family_name": "Ivanov",
 	    	"post": "Director",
+	    	"adress": "Hello World!",
 	    	"avatar": "https://avatarfiles.alphacoders.com/192/192348.jpg",
 	    	"comments":[]
 	    }
